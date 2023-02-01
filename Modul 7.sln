@@ -7,12 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{BEB4EDDF-36DC-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.1ва задача", "07.1ва задача\07.1ва задача.csproj", "{DA86F756-1980-4D8F-ACDC-0BD14A11123A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{AFC839CB-32F0-40E6-9084-600B978BE9A0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{9AD69522-2249-4C9D-856B-5E374BDB9E08}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{90994904-9AC0-4ED0-8A25-62E9CD4F4474}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,22 +17,12 @@ Global
 		{DA86F756-1980-4D8F-ACDC-0BD14A11123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA86F756-1980-4D8F-ACDC-0BD14A11123A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA86F756-1980-4D8F-ACDC-0BD14A11123A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFC839CB-32F0-40E6-9084-600B978BE9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFC839CB-32F0-40E6-9084-600B978BE9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFC839CB-32F0-40E6-9084-600B978BE9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFC839CB-32F0-40E6-9084-600B978BE9A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90994904-9AC0-4ED0-8A25-62E9CD4F4474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90994904-9AC0-4ED0-8A25-62E9CD4F4474}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90994904-9AC0-4ED0-8A25-62E9CD4F4474}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90994904-9AC0-4ED0-8A25-62E9CD4F4474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DA86F756-1980-4D8F-ACDC-0BD14A11123A} = {BEB4EDDF-36DC-47A8-B948-721291974BB0}
-		{AFC839CB-32F0-40E6-9084-600B978BE9A0} = {BEB4EDDF-36DC-47A8-B948-721291974BB0}
-		{90994904-9AC0-4ED0-8A25-62E9CD4F4474} = {9AD69522-2249-4C9D-856B-5E374BDB9E08}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2DAFF85D-3841-4F30-9E49-188103577806}
