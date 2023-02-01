@@ -1,10 +1,12 @@
-﻿namespace _07._1ва_задача
+﻿using _07._1ва_задача.Controllers;
+
+namespace _07._1ва_задача
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            Controller controller = new Controller();
         }
     }
 }
